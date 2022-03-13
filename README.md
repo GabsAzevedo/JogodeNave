@@ -1,4 +1,4 @@
-# JogodeNave
+# Jogo de Nave
 
 Jogo Desenvolvido durante o Bootcamp da Dio Innovation.
 Criado com JavaScript, HTML e CSS.
